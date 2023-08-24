@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/jobarouter/static/css/main.62ff7c03.css",
-    "main.js": "/jobarouter/static/js/main.fcb76063.js",
-    "index.html": "/jobarouter/index.html",
-    "main.62ff7c03.css.map": "/jobarouter/static/css/main.62ff7c03.css.map",
-    "main.fcb76063.js.map": "/jobarouter/static/js/main.fcb76063.js.map"
+    "main.css": "/job-router-react/static/css/main.62ff7c03.css",
+    "main.js": "/job-router-react/static/js/main.fcb76063.js",
+    "index.html": "/job-router-react/index.html",
+    "main.62ff7c03.css.map": "/job-router-react/static/css/main.62ff7c03.css.map",
+    "main.fcb76063.js.map": "/job-router-react/static/js/main.fcb76063.js.map"
   },
   "entrypoints": [
     "static/css/main.62ff7c03.css",
