@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jobarouter/static/css/main.62ff7c03.css",
+    "main.js": "/jobarouter/static/js/main.fcb76063.js",
+    "index.html": "/jobarouter/index.html",
+    "main.62ff7c03.css.map": "/jobarouter/static/css/main.62ff7c03.css.map",
+    "main.fcb76063.js.map": "/jobarouter/static/js/main.fcb76063.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62ff7c03.css",
+    "static/js/main.fcb76063.js"
+  ]
+}
