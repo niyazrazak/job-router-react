@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/job-router-react/static/css/main.62ff7c03.css",
-    "main.js": "/job-router-react/static/js/main.fcb76063.js",
+    "main.css": "/job-router-react/static/css/main.eb84f443.css",
+    "main.js": "/job-router-react/static/js/main.fe79727b.js",
     "index.html": "/job-router-react/index.html",
-    "main.62ff7c03.css.map": "/job-router-react/static/css/main.62ff7c03.css.map",
-    "main.fcb76063.js.map": "/job-router-react/static/js/main.fcb76063.js.map"
+    "main.eb84f443.css.map": "/job-router-react/static/css/main.eb84f443.css.map",
+    "main.fe79727b.js.map": "/job-router-react/static/js/main.fe79727b.js.map"
   },
   "entrypoints": [
-    "static/css/main.62ff7c03.css",
-    "static/js/main.fcb76063.js"
+    "static/css/main.eb84f443.css",
+    "static/js/main.fe79727b.js"
   ]
 }
